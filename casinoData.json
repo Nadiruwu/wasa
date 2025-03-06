@@ -1,0 +1,704 @@
+{
+  "2": {
+    "balance": 101,
+    "lastDaily": null
+  },
+  "5216621836611@c.us": {
+    "balance": 121800051,
+    "lastDaily": "2025-03-06T00:19:10.065Z"
+  },
+  "5216624173511@c.us": {
+    "balance": 100000000000000,
+    "lastDaily": "2025-02-22T17:25:53.301Z",
+    "games": {
+      "ruleta": {
+        "chamber": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true
+        ]
+      }
+    }
+  },
+  "5216421138431@c.us": {
+    "balance": 112970195,
+    "lastDaily": "2025-02-19T16:34:43.056Z",
+    "games": {
+      "ruleta": {
+        "chamber": [
+          false,
+          false,
+          true,
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  },
+  "5216621248003@c.us": {
+    "balance": 100000000,
+    "lastDaily": "2025-03-06T00:19:00.878Z",
+    "games": {
+      "ruleta": {
+        "chamber": [
+          false,
+          false,
+          false,
+          false,
+          true,
+          false
+        ]
+      }
+    }
+  },
+  "5216871918878@c.us": {
+    "balance": 0,
+    "lastDaily": null
+  },
+  "5216624683227@c.us": {
+    "balance": 450,
+    "lastDaily": null
+  },
+  "56939702766@c.us": {
+    "balance": 7.149999999994003e+24,
+    "lastDaily": "2025-02-20T20:07:41.702Z"
+  },
+  "5216624627252@c.us": {
+    "balance": 150,
+    "lastDaily": null
+  },
+  "5216622268497@c.us": {
+    "balance": 130569,
+    "lastDaily": "2025-03-06T00:19:19.956Z"
+  },
+  "5216624467200@c.us": {
+    "balance": 1,
+    "lastDaily": "2025-02-22T01:18:26.190Z",
+    "games": {
+      "blackjack": {
+        "deck": [
+          {
+            "suit": "♠️",
+            "value": "4"
+          },
+          {
+            "suit": "♦️",
+            "value": "Q"
+          },
+          {
+            "suit": "♦️",
+            "value": "2"
+          },
+          {
+            "suit": "♠️",
+            "value": "6"
+          },
+          {
+            "suit": "♦️",
+            "value": "6"
+          },
+          {
+            "suit": "♣️",
+            "value": "6"
+          },
+          {
+            "suit": "♠️",
+            "value": "A"
+          },
+          {
+            "suit": "♥️",
+            "value": "6"
+          },
+          {
+            "suit": "♦️",
+            "value": "K"
+          },
+          {
+            "suit": "♥️",
+            "value": "9"
+          },
+          {
+            "suit": "♠️",
+            "value": "3"
+          },
+          {
+            "suit": "♥️",
+            "value": "4"
+          },
+          {
+            "suit": "♦️",
+            "value": "5"
+          },
+          {
+            "suit": "♠️",
+            "value": "9"
+          },
+          {
+            "suit": "♣️",
+            "value": "4"
+          },
+          {
+            "suit": "♥️",
+            "value": "8"
+          },
+          {
+            "suit": "♠️",
+            "value": "5"
+          },
+          {
+            "suit": "♥️",
+            "value": "5"
+          },
+          {
+            "suit": "♣️",
+            "value": "Q"
+          },
+          {
+            "suit": "♠️",
+            "value": "2"
+          },
+          {
+            "suit": "♥️",
+            "value": "2"
+          },
+          {
+            "suit": "♣️",
+            "value": "9"
+          },
+          {
+            "suit": "♠️",
+            "value": "8"
+          },
+          {
+            "suit": "♣️",
+            "value": "J"
+          },
+          {
+            "suit": "♣️",
+            "value": "A"
+          },
+          {
+            "suit": "♥️",
+            "value": "7"
+          },
+          {
+            "suit": "♣️",
+            "value": "K"
+          },
+          {
+            "suit": "♥️",
+            "value": "K"
+          },
+          {
+            "suit": "♦️",
+            "value": "10"
+          },
+          {
+            "suit": "♠️",
+            "value": "10"
+          },
+          {
+            "suit": "♣️",
+            "value": "3"
+          },
+          {
+            "suit": "♦️",
+            "value": "9"
+          },
+          {
+            "suit": "♠️",
+            "value": "Q"
+          },
+          {
+            "suit": "♥️",
+            "value": "10"
+          },
+          {
+            "suit": "♦️",
+            "value": "3"
+          },
+          {
+            "suit": "♥️",
+            "value": "A"
+          },
+          {
+            "suit": "♥️",
+            "value": "J"
+          },
+          {
+            "suit": "♣️",
+            "value": "7"
+          },
+          {
+            "suit": "♣️",
+            "value": "5"
+          },
+          {
+            "suit": "♠️",
+            "value": "J"
+          },
+          {
+            "suit": "♠️",
+            "value": "K"
+          },
+          {
+            "suit": "♠️",
+            "value": "7"
+          },
+          {
+            "suit": "♦️",
+            "value": "J"
+          },
+          {
+            "suit": "♦️",
+            "value": "A"
+          },
+          {
+            "suit": "♦️",
+            "value": "7"
+          },
+          {
+            "suit": "♣️",
+            "value": "10"
+          },
+          {
+            "suit": "♣️",
+            "value": "8"
+          },
+          {
+            "suit": "♦️",
+            "value": "8"
+          },
+          {
+            "suit": "♥️",
+            "value": "3"
+          }
+        ],
+        "hand": [
+          {
+            "suit": "♦️",
+            "value": "4"
+          },
+          {
+            "suit": "♥️",
+            "value": "Q"
+          }
+        ],
+        "dealerHand": [
+          {
+            "suit": "♣️",
+            "value": "2"
+          }
+        ],
+        "bet": 10000
+      }
+    }
+  },
+  "5216624616938@c.us": {
+    "balance": -50,
+    "lastDaily": null
+  },
+  "yocupolla": {
+    "balance": 99556,
+    "lastDaily": null
+  },
+  "@5216421138431": {
+    "balance": 102,
+    "lastDaily": null
+  },
+  "6621248003": {
+    "balance": 200,
+    "lastDaily": null
+  },
+  "5216621159003@c.us": {
+    "balance": 0,
+    "lastDaily": null
+  },
+  "5216623515885@c.us": {
+    "balance": 100,
+    "lastDaily": null
+  },
+  "6624173511": {
+    "balance": 150,
+    "lastDaily": null
+  },
+  "@5216624173511": {
+    "balance": 900,
+    "lastDaily": null
+  },
+  "5216623956231@c.us": {
+    "balance": 73199900000,
+    "lastDaily": "2025-02-19T19:17:17.024Z"
+  },
+  "5216641285152@c.us": {
+    "balance": 3000000000250,
+    "lastDaily": "2025-02-21T00:42:29.041Z"
+  },
+  "tu": {
+    "balance": 100100,
+    "lastDaily": null
+  },
+  "eberpussi": {
+    "balance": 499,
+    "lastDaily": null
+  },
+  "yo": {
+    "balance": 223320,
+    "lastDaily": null
+  },
+  "5216861900545@c.us": {
+    "balance": 100,
+    "lastDaily": null
+  },
+  "teibol": {
+    "balance": 2000100,
+    "lastDaily": null
+  },
+  "5216511009497@c.us": {
+    "balance": 0,
+    "lastDaily": "2025-02-21T21:25:21.791Z",
+    "games": {
+      "ruleta": {
+        "chamber": [
+          false,
+          false,
+          false,
+          false,
+          true,
+          false
+        ]
+      }
+    }
+  },
+  "6511001721": {
+    "balance": 1100,
+    "lastDaily": null
+  },
+  "6511010876": {
+    "balance": 1100,
+    "lastDaily": null
+  },
+  "5216511010876@c.us": {
+    "balance": 80000000,
+    "lastDaily": "2025-02-21T00:43:00.517Z"
+  },
+  "5216511001721@c.us": {
+    "balance": 5.189899900008046e+22,
+    "lastDaily": null,
+    "games": {
+      "blackjack": {
+        "deck": [
+          {
+            "suit": "♦️",
+            "value": "3"
+          },
+          {
+            "suit": "♣️",
+            "value": "2"
+          },
+          {
+            "suit": "♠️",
+            "value": "10"
+          },
+          {
+            "suit": "♠️",
+            "value": "6"
+          },
+          {
+            "suit": "♥️",
+            "value": "3"
+          },
+          {
+            "suit": "♠️",
+            "value": "4"
+          },
+          {
+            "suit": "♥️",
+            "value": "6"
+          },
+          {
+            "suit": "♠️",
+            "value": "7"
+          },
+          {
+            "suit": "♣️",
+            "value": "10"
+          },
+          {
+            "suit": "♣️",
+            "value": "K"
+          },
+          {
+            "suit": "♣️",
+            "value": "3"
+          },
+          {
+            "suit": "♥️",
+            "value": "5"
+          },
+          {
+            "suit": "♦️",
+            "value": "K"
+          },
+          {
+            "suit": "♥️",
+            "value": "10"
+          },
+          {
+            "suit": "♥️",
+            "value": "8"
+          },
+          {
+            "suit": "♠️",
+            "value": "3"
+          },
+          {
+            "suit": "♦️",
+            "value": "10"
+          },
+          {
+            "suit": "♦️",
+            "value": "5"
+          },
+          {
+            "suit": "♥️",
+            "value": "2"
+          },
+          {
+            "suit": "♦️",
+            "value": "6"
+          },
+          {
+            "suit": "♠️",
+            "value": "K"
+          },
+          {
+            "suit": "♣️",
+            "value": "9"
+          },
+          {
+            "suit": "♠️",
+            "value": "8"
+          },
+          {
+            "suit": "♣️",
+            "value": "4"
+          },
+          {
+            "suit": "♦️",
+            "value": "8"
+          },
+          {
+            "suit": "♣️",
+            "value": "A"
+          },
+          {
+            "suit": "♣️",
+            "value": "6"
+          },
+          {
+            "suit": "♠️",
+            "value": "9"
+          },
+          {
+            "suit": "♠️",
+            "value": "2"
+          },
+          {
+            "suit": "♦️",
+            "value": "A"
+          },
+          {
+            "suit": "♦️",
+            "value": "7"
+          },
+          {
+            "suit": "♦️",
+            "value": "9"
+          },
+          {
+            "suit": "♦️",
+            "value": "J"
+          },
+          {
+            "suit": "♦️",
+            "value": "Q"
+          },
+          {
+            "suit": "♥️",
+            "value": "9"
+          },
+          {
+            "suit": "♣️",
+            "value": "J"
+          },
+          {
+            "suit": "♣️",
+            "value": "8"
+          },
+          {
+            "suit": "♣️",
+            "value": "5"
+          },
+          {
+            "suit": "♣️",
+            "value": "Q"
+          },
+          {
+            "suit": "♠️",
+            "value": "Q"
+          },
+          {
+            "suit": "♥️",
+            "value": "7"
+          },
+          {
+            "suit": "♥️",
+            "value": "Q"
+          },
+          {
+            "suit": "♥️",
+            "value": "4"
+          },
+          {
+            "suit": "♣️",
+            "value": "7"
+          },
+          {
+            "suit": "♠️",
+            "value": "5"
+          },
+          {
+            "suit": "♠️",
+            "value": "J"
+          },
+          {
+            "suit": "♥️",
+            "value": "A"
+          },
+          {
+            "suit": "♦️",
+            "value": "2"
+          },
+          {
+            "suit": "♠️",
+            "value": "A"
+          }
+        ],
+        "hand": [
+          {
+            "suit": "♦️",
+            "value": "4"
+          },
+          {
+            "suit": "♥️",
+            "value": "K"
+          }
+        ],
+        "dealerHand": [
+          {
+            "suit": "♥️",
+            "value": "J"
+          }
+        ],
+        "bet": 10000
+      }
+    }
+  },
+  "526511041514": {
+    "balance": 3100,
+    "lastDaily": null
+  },
+  "5216511041514@c.us": {
+    "balance": -100,
+    "lastDaily": null
+  },
+  "19289759482@c.us": {
+    "balance": 5.940000000000651e+21,
+    "lastDaily": null
+  },
+  "@5216511041514": {
+    "balance": 1100,
+    "lastDaily": null
+  },
+  "@19289759482": {
+    "balance": 2100,
+    "lastDaily": null
+  },
+  "16193895767@c.us": {
+    "balance": 100,
+    "lastDaily": null,
+    "games": {
+      "ruleta": {
+        "chamber": [
+          false,
+          false,
+          false,
+          false,
+          true,
+          false
+        ]
+      }
+    }
+  },
+  "5216624704490@c.us": {
+    "balance": 100,
+    "lastDaily": null
+  },
+  "593997606527@c.us": {
+    "balance": 3000000000100,
+    "lastDaily": null
+  },
+  "5216622263243@c.us": {
+    "balance": 12100100000100,
+    "lastDaily": null
+  },
+  "5216624095495@c.us": {
+    "balance": 0,
+    "lastDaily": null
+  },
+  "5216623167827@c.us": {
+    "balance": 100000100,
+    "lastDaily": null
+  },
+  "5216624256970@c.us": {
+    "balance": 100,
+    "lastDaily": null,
+    "games": {
+      "ruleta": {
+        "chamber": [
+          false,
+          false,
+          true,
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  },
+  "5216624007402@c.us": {
+    "balance": 100,
+    "lastDaily": null
+  },
+  "5216622952849@c.us": {
+    "balance": 100,
+    "lastDaily": null,
+    "games": {
+      "ruleta": {
+        "chamber": [
+          false,
+          false,
+          false,
+          true,
+          false,
+          false
+        ]
+      }
+    }
+  }
+}

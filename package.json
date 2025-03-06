@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp_bot",
+  "version": "1.0.0",
+  "description": "Un bot de WhatsApp usando whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.2.1",
+    "puppeteer-core": "^24.2.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
